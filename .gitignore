@@ -169,4 +169,4 @@ sftp-config.json
 *.un~
 Session.vim
 .netrwhist
-grails-app/conf/application.yml
+#grails-app/conf/application.yml
